@@ -1,0 +1,11 @@
+User{userId='1', name='Alice Cahill', latitude=51.92893, longitude=-10.27699}
+User{userId='5', name='Nora Dempsey', latitude=53.1302756, longitude=-6.2397222}
+User{userId='9', name='Jack Dempsey', latitude=52.2559432, longitude=-7.1048927}
+User{userId='14', name='Helen Cahill', latitude=51.999447, longitude=-9.742744}
+User{userId='16', name='Ian Larkin', latitude=52.366037, longitude=-8.179118}
+User{userId='19', name='Enid Cahill', latitude=55.033, longitude=-8.112}
+User{userId='25', name='David Behan', latitude=52.833502, longitude=-8.522366}
+User{userId='26', name='Stephen McArdle', latitude=53.038056, longitude=-7.653889}
+User{userId='30', name='Nick Enright', latitude=53.761389, longitude=-7.2875}
+User{userId='31', name='Alan Behan', latitude=53.1489345, longitude=-6.8422408}
+User{userId='39', name='Lisa Ahearn', latitude=53.0033946, longitude=-6.3877505}
