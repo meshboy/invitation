@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="InvitationDistanceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-12T00:59:28" hostname="meshileyas-MacBook-Pro.local" time="0.267">
-  <properties/>
-  <testcase name="validate_conversion_to_degree_is_called_at_least_once" classname="InvitationDistanceTest" time="0.266"/>
-  <testcase name="validate_distance_given_is_within_boundaries" classname="InvitationDistanceTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
